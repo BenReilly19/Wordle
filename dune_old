@@ -1,0 +1,4 @@
+(executable
+ (name wordle)
+ (public_name Wordle)
+ (libraries ANSITerminal ounit2))
